@@ -1,6 +1,6 @@
 # notion-widgets
 
-Resizable currency converter widgets to add to your Notion Page. Currency supported : AUD -> EUR, HKD, HUF
+Resizable currency converter widgets to add to your Notion Page. Currencies supported : AUD -> EUR, HKD, HUF
 Use https://karellu.github.io/notion-widgets/{currency}
 
 Example : AUD -> EUR
